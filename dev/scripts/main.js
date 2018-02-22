@@ -1,3 +1,3 @@
-const ohHey = "Hello World";
-
-console.log(ohHey);
+$(function() {
+    console.log('ready');
+});
